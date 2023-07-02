@@ -1,0 +1,29 @@
+node_modules
+.env
+coverage
+coverage.json
+typechain
+typechain-types
+
+#vscode
+.vscode
+
+
+# Hardhat files
+cache
+artifacts
+deployments
+
+# Version control
+vcs.xml
+
+# lint
+lint/intermediates/
+lint/generated/
+lint/outputs/
+lint/tmp/
+
+# Generated files
+bin/
+gen/
+out/
